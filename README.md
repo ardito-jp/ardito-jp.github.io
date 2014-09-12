@@ -1,2 +1,2 @@
-ardito-jp.github.io
-===================
+Hi, we are [Ardito Co.,Ltd.](http://www.ardito.jp)
+
